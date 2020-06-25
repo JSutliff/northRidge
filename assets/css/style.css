@@ -438,6 +438,24 @@ p a {
   display: none
 }
 
+footer {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  color: #333333;
+  background-color: lightgray;
+  height: 6rem;
+}
+
+footer a {
+  color: goldenrod;
+  font-size: 1.2rem;
+}
+
+footer a:hover {
+  cursor: pointer;
+}
+
 @media only screen and (min-width: 700px) {
   .hide {
     display: block;
@@ -509,5 +527,10 @@ p a {
 
   .wrap {
     margin-top: 25px;
+  }
+
+  footer p{
+    width: 80%;
+    margin: 0 auto;
   }
 }
