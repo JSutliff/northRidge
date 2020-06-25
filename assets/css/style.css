@@ -236,7 +236,7 @@ body {
 }
 
 .features-icon {
-  font-size: 4rem;
+  font-size: 2rem;
 }
 
 #features li {
@@ -263,7 +263,10 @@ body {
 /* Image Slider */
 #photos {
   text-align: center;
+  font-size: 1.3rem;
 }
+
+
 
 #slider,
 .wrap,
@@ -324,6 +327,55 @@ body {
 }
 .slide12 {
   background-image: url("../images/img-12.jpg");
+}
+
+.slide13 {
+  background-image: url("../images/img-13.jpg");
+}
+.slide14 {
+  background-image: url("../images/img-14.jpg");
+}
+.slide15 {
+  background-image: url("../images/img-15.jpg");
+}
+
+.slide16 {
+  background-image: url("../images/img-16.jpg");
+}
+.slide17 {
+  background-image: url("../images/img-17.jpg");
+}
+.slide18 {
+  background-image: url("../images/img-18.jpg");
+}
+
+.slide19 {
+  background-image: url("../images/img-19.jpg");
+}
+.slide20 {
+  background-image: url("../images/img-20.jpg");
+}
+.slide21 {
+  background-image: url("../images/img-21.jpg");
+}
+
+.slide22 {
+  background-image: url("../images/img-22.jpg");
+}
+.slide23 {
+  background-image: url("../images/img-23.jpg");
+}
+.slide24 {
+  background-image: url("../images/img-24.jpg");
+}
+.slide25 {
+  background-image: url("../images/img-25.jpg");
+}
+.slide26 {
+  background-image: url("../images/img-26.jpg");
+}
+.slide27 {
+  background-image: url("../images/img-27.jpg");
 }
 
 .slide-content {
