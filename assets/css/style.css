@@ -461,6 +461,10 @@ footer a:hover {
   z-index: 2;
 }
 
+#share-buttons a {
+  margin: 10px;
+}
+
 @media only screen and (min-width: 700px) {
   #share-buttons {
     display: flex;
