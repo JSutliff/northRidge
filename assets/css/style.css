@@ -460,9 +460,10 @@ footer a:hover {
   left: 70px;
   z-index: 2;
 }
-
-#share-buttons a {
-  margin: 10px;
+@media only screen and (max-width: 700px) {
+  .share-btn {
+    margin-left: 25px;
+  }
 }
 
 @media only screen and (min-width: 700px) {
@@ -473,6 +474,10 @@ footer a:hover {
     top: 220px;
     left: 20px;
     z-index: 2;
+  }
+
+  .share-btn {
+    margin-top: 25px;
   }
 
   .hide {
